@@ -1,2 +1,2 @@
 # covid
- Covid-19 tracking application using external API data and React.
+ COVID-19 Tracking Application: Built with React using external API data.
